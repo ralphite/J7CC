@@ -85,7 +85,7 @@ public class Chap1_8 {
                 Event e = deque.getLast();
                 difference = date.getTime() - e.getDate().getTime();
                 if (difference > 10000) {
-                    System.out.printf("Clearner: %s\n", e.getEvent());
+                    System.out.printf("Cleaner: %s\n", e.getEvent());
                     deque.removeLast();
                     delete = true;
                 }
