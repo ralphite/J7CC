@@ -1,4 +1,4 @@
-package J7CC;
+package J7CC.Chap1;
 
 import java.util.ArrayList;
 import java.util.Date;

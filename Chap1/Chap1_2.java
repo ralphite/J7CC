@@ -1,4 +1,4 @@
-package J7CC;
+package J7CC.Chap1;
 
 /**
  * Created by yawen on 3/24/2015.

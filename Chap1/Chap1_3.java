@@ -1,4 +1,4 @@
-package J7CC;
+package J7CC.Chap1;
 
 import java.io.FileWriter;
 import java.io.IOException;
