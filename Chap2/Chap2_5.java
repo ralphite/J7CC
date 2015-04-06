@@ -1,4 +1,4 @@
-package J7CC.Chap2;
+package Chap2;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

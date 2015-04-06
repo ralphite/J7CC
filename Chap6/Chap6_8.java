@@ -1,4 +1,4 @@
-package J7CC.Chap6;
+package Chap6;
 
 import java.util.concurrent.atomic.AtomicLong;
 

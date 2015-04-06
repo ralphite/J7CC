@@ -1,4 +1,4 @@
-package J7CC.Chap5;
+package Chap5;
 
 import java.io.File;
 import java.util.ArrayList;

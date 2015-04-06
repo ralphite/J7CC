@@ -1,4 +1,4 @@
-package J7CC.Chap3;
+package Chap3;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;

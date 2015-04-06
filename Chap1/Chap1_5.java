@@ -1,4 +1,4 @@
-package J7CC.Chap1;
+package Chap1;
 
 import java.io.File;
 import java.util.concurrent.TimeUnit;

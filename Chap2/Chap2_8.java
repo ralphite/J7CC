@@ -1,4 +1,4 @@
-package J7CC.Chap2;
+package Chap2;
 
 import java.util.LinkedList;
 import java.util.Random;

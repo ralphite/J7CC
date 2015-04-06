@@ -1,4 +1,4 @@
-package J7CC.Chap4;
+package Chap4;
 
 import java.util.ArrayList;
 import java.util.List;

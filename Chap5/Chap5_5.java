@@ -1,4 +1,4 @@
-package J7CC.Chap5;
+package Chap5;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveTask;
