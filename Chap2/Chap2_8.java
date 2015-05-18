@@ -60,7 +60,7 @@ public class Chap2_8 {
             lock.lock();
             try {
                 while (buffer.size() == maxSize) {
-                    space.wait();
+                    space.await();
                 }
                 buffer.offer(line);
                 System.out.printf("%s: Inserted Line: %d\n",
